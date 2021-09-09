@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @docclr
 - 👀 I’m interested in blockchain and DLT
-- 🌱 I’m currently learning more about Consensys
+- 🌱 I’m currently learning more about Ethereum
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me ...
 
